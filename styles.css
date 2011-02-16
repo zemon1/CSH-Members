@@ -1,0 +1,20 @@
+#Heading {
+	font-family: "Times New Roman", Times, serif;
+	color: #000;
+	
+	text-decoration: none;
+}
+
+a:link {background-color:#FFFFFF; color: #000;}
+a:visited {background-color:#FFFFFF; color: #000;}
+a:hover {background-color:#FFFFFF; color: #000;}
+a:active {background-color:#FFFFFF; color: #000;}
+
+#TableParts {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000;
+}
